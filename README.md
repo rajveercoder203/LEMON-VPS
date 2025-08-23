@@ -1,5 +1,5 @@
 ```
-git clone https://github.com/rajveercoder203/LEMON-VPS/tree/main
+git clone https://github.com/rajveercoder203/LEMON-VPS
 ```
 ```
 cd LEMON-VPS
