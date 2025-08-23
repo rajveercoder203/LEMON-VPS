@@ -5,7 +5,11 @@ git clone https://github.com/rajveercoder203/LEMON-VPS/tree/main
 cd LEMON-VPS
 ```
 ```
-
+apt install docker.io && apt install pip && apt install pip && apt install systemctl -y
+```
+```
+systemctl start docker
+```
 ```
 pip install -r requirements.txt
 ```
